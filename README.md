@@ -35,14 +35,14 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[menna1210]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[menna1210]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menna1210&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna1210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 🌟 Featured Project
-**[ERP dashboard]** *A multi-language web application built with Next.js and Material UI, focusing on SEO and performance.* 🔗 [Live Demo]([Link]) | 📂 [Repository]([[Link](https://github.com/menna1210/ERP-dashboard)])
+**ERP dashboard** *A multi-language web application built with Next.js and Material UI, focusing on SEO and performance.* 🔗 [Live Demo]([Link]) | 📂 [Repository]([[Link](https://github.com/menna1210/ERP-dashboard)])
 
 ---
 
