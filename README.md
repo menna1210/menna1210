@@ -1,4 +1,4 @@
-# Hi there, I'm [Menna Assem] 👋
+# Hi there, I'm Menna Assem 👋
 
 ### 🚀  Frontend Developer | React & Next.js Specialist
 **Passionate about building performant, accessible, and visually stunning web applications.**
@@ -35,14 +35,14 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[menna1210]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[menna1210]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 🌟 Featured Project
-**[Project Name]** *A multi-language web application built with Next.js and Material UI, focusing on SEO and performance.* 🔗 [Live Demo]([Link]) | 📂 [Repository]([[Link](https://github.com/menna1210/ERP-dashboard)])
+**[ERP dashboard]** *A multi-language web application built with Next.js and Material UI, focusing on SEO and performance.* 🔗 [Live Demo]([Link]) | 📂 [Repository]([[Link](https://github.com/menna1210/ERP-dashboard)])
 
 ---
 
