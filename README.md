@@ -57,8 +57,7 @@
 
 ---
 ### 🎖️ Key Milestone
-![Pull Shark](https://img.shields.io/badge/GitHub_Achievement-Pull_Shark-orange?style=for-the-badge&logo=github&logoColor=white)
----
+<img src="https://github.com/static/images/modules/profile/achievements/pull-shark-default.png" width="120px" alt="Pull Shark Achievement" />---
 
 ### 📊 GitHub Activity
 <div align="center">
