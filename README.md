@@ -15,49 +15,14 @@
 
 ### 🛠️ Technical Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Frontend Development</h4>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/ES6+-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-      <br />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>Back-end & Integration</h4>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/json-5E5E5E?style=flat&logo=json&logoColor=white" />
-      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat&logo=google-cloud&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Tools & Version Control</h4>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/gitlab-%23E24329.svg?style=flat&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>Methodologies</h4>
-      <img src="https://img.shields.io/badge/Agile-Scrum-009688?style=flat" />
-      <img src="https://img.shields.io/badge/Clean_Code-success?style=flat" />
-      <img src="https://img.shields.io/badge/Performance_Optimization-orange?style=flat" />
-    </td>
-  </tr>
-</table>
+| Category | Icons |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![RestAPI](https://img.shields.io/badge/Rest_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Methodologies** | ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-024DFD?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge) |
 
 ---
-### 🎖️ Key Milestone
-<img src="https://github.com/static/images/modules/profile/achievements/pull-shark-default.png" width="120px" alt="Pull Shark Achievement" />---
 
 ### 📊 GitHub Activity
 <div align="center">
