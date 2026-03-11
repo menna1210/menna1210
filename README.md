@@ -56,6 +56,11 @@
 </table>
 
 ---
+### 🏆 My GitHub Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=menna1210&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+---
 
 ### 📊 GitHub Activity
 <div align="center">
